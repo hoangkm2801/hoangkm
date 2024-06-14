@@ -39,10 +39,9 @@ Software Engineering.
 
 ## Programming Languages: 
 - Swift
-- Jave
+- Java
 - Dart
 - Javascript 
-- Rust
 - Go
 - Python
 - React

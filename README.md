@@ -30,9 +30,7 @@ Software Engineering.
 
 - 🧑🏻‍💻 Xcode 
 - 🐦 Flutter 
-- ☕️ Spring Boot
 - 🔥 Firebase 
-- 🐍 Flask
 - 🐳 Docker 
 - 🎨 Figma 
 - and of course git 😜
@@ -40,7 +38,6 @@ Software Engineering.
 ## Programming Languages: 
 - Swift
 - Java
-- Dart
 - Javascript 
 - Go
 - Python
